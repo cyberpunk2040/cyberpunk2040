@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharanPreetSingh
+- 👋 Hi, I’m @CharanpreetSingh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on any web development project
